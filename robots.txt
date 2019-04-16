@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aegaedoox.elms.pro/sitemap.xml
